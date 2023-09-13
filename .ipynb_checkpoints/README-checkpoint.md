@@ -6,3 +6,6 @@
 
 **Functions**  
 *function_arguments*: Shows the interaction with the function arguments  
+
+___
+*example*: Some examples for Jupyter Notebook 
