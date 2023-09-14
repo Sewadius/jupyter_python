@@ -8,6 +8,9 @@
 *my_len_list*: Function to calculate the length of the list  
 *deep_copy*: Differences between `copy()` and `deepcopy()`
 
+**Pandas**  
+*series*: Some examples with `Series()` method  
+
 **Strings**  
 *maxsplit*: `maxsplit` parameter for `split()` method  
 
