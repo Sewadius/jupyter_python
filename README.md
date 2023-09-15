@@ -4,12 +4,14 @@
 *function_arguments*: Shows the interaction with the function arguments  
 
 **Lists**  
+*deep_copy*: Differences between `copy()` and `deepcopy()`  
 *mutable_list*: Example shows mutability for the list  
 *my_len_list*: Function to calculate the length of the list  
-*deep_copy*: Differences between `copy()` and `deepcopy()`
+
 
 **Pandas**  
-*series*: Some examples with `Series()` method  
+*series_intro*: Some examples with `Series()` method  
+*series_operations*: Operations with `Series` data  
 
 **Strings**  
 *maxsplit*: `maxsplit` parameter for `split()` method  
