@@ -1,4 +1,6 @@
-# Jupyter study notebooks for learning Python
+## Notebooks for learning Python
+
+<img src="img/splash.png" style="height:80px">
 
 **Functions**  
 *function_arguments*: Shows the interaction with the function arguments  
