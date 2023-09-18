@@ -15,6 +15,9 @@
 *series_intro*: Some examples with `Series()` method  
 *series_operations*: Operations with `Series` data  
 
+**Re**  
+*intro_re*: Some examples for `re` module  
+
 **Strings**  
 *maxsplit*: `maxsplit` parameter for `split()` method  
 
