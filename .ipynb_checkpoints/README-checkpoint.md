@@ -10,6 +10,8 @@
 *mutable_list*: Example shows mutability for the list  
 *my_len_list*: Function to calculate the length of the list  
 
+**OOP**  
+*static_method*: Examples for static method in a class  
 
 **Pandas**  
 *series_intro*: Some examples with `Series()` method  
