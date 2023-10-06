@@ -5,6 +5,9 @@
 **Functions**  
 *function_arguments*: Shows the interaction with the function arguments  
 
+**Intertools**  
+
+
 **Lists**  
 *deep_copy*: Differences between `copy()` and `deepcopy()`  
 *mutable_list*: Example shows mutability for the list  
