@@ -5,8 +5,8 @@
 **Functions**  
 *function_arguments*: Shows the interaction with the function arguments  
 
-**Intertools**  
-
+**Itertools**  
+*count*: Examples for using `count` from `itertools` module  
 
 **Lists**  
 *deep_copy*: Differences between `copy()` and `deepcopy()`  
