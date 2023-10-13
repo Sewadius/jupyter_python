@@ -25,6 +25,7 @@
 
 **Strings**  
 *maxsplit*: `maxsplit` parameter for `split()` method  
+*join_method*: Some examples for `join()` method  
 
 ___
 *example*: Some examples for Jupyter Notebook 
