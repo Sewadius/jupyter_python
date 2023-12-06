@@ -2,6 +2,9 @@
 
 <img src="img/splash.png" style="height:80px">
 
+**Fractions**  
+*fractions_example*: Some examples for `fractions` module
+
 **Functions**  
 *function_arguments*: Shows the interaction with the function arguments  
 
